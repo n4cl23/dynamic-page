@@ -1,5 +1,5 @@
 
-# List Dinâmica 
+# Lista Dinâmica 
 
 Aplicação web de lista de compras para o curso de construção de páginas dinâmicas com JavaScript.
 
